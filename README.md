@@ -1,4 +1,4 @@
-
+Open The index.html file to start
  
 1	INTRODUCTION
 #1	This document provides a comprehensive and detailed architectural overview of the system, using a number of different architectural views to depict different aspects of the system. It is intended to capture and convey the significant architectural decisions that have been made on the system.
